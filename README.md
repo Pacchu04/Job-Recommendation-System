@@ -38,55 +38,10 @@ Different similarity metrics such as Cosine (Orchini), City block, and Euclidean
 ### Cosine similarity  
 Measure of similarity between two non-zero vectors in an inner product space that measures the cosine of the angle between them. It is used to determine how similar two documents (or vectors) are to each other.
 
-Mathematical Formula:
-The cosine similarity between two vectors 
-𝐴
-A and 
-𝐵
-B is defined as:
+### Mathematical Formula:
+![Cosine-similarity-formula](https://github.com/Pacchu04/Job-Recommendation-System/assets/92878457/371086d2-fb18-4278-8a5f-1ce23dff83c6)
 
-cosine_similarity
-=
-cos
-⁡
-(
-𝜃
-)
-=
-𝐴
-⋅
-𝐵
-∥
-𝐴
-∥
-∥
-𝐵
-∥
-cosine_similarity=cos(θ)= 
-∥A∥∥B∥
-A⋅B
-​
- 
+* A⋅B is the dot product of the vectors 𝐴 and B
+* ∥A∥ is the magnitude (or length) of vector 𝐴
+* ∥B∥ is the magnitude (or length) of vector 𝐵
 
-Where:
-
-𝐴
-⋅
-𝐵
-A⋅B is the dot product of the vectors 
-𝐴
-A and 
-𝐵
-B.
-∥
-𝐴
-∥
-∥A∥ is the magnitude (or length) of vector 
-𝐴
-A.
-∥
-𝐵
-∥
-∥B∥ is the magnitude (or length) of vector 
-𝐵
-B.
