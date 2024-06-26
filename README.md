@@ -13,3 +13,15 @@ There are mainly two types of filtering techniques in Recommendation Systems nam
 * Content-based filtering : Content-based filtering is a recommendation technique that suggests items (such as articles, movies, or jobs) to users based on the characteristics or "content" of those items. Instead of relying on the preferences or behavior of other users, it focuses on the specific features or attributes of the items themselves.
   
 * Collaborative filtering: Collaborative filtering is a recommendation technique that predicts a user's interests or preferences based on the preferences and behaviors of other users. It relies on the idea that people who have agreed in the past will agree in the future.
+
+## Methodology
+I Build a job recommendation engine using content-based filtering techniques.
+
+* Data Pre-processing and Meta-data creation
+* Vectorization
+* Measuring similarities between skill vectors
+* Enhanced Recommendations with User Feedback
+
+
+
+
