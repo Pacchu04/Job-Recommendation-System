@@ -36,5 +36,57 @@ Vectorization refers to the computation and generation of vectors based on the w
 Different similarity metrics such as Cosine (Orchini), City block, and Euclidean require vectorization of the skill query input and the job-based skills for searching job options where the user skills are available and then search similar jobs based on the top match.
 
 ### Cosine similarity  
-* measure of similarity between two non-zero vectors in an inner product space that measures the cosine of the angle between them. It is used to determine how similar two documents (or vectors) are to each other.
+Measure of similarity between two non-zero vectors in an inner product space that measures the cosine of the angle between them. It is used to determine how similar two documents (or vectors) are to each other.
 
+Mathematical Formula:
+The cosine similarity between two vectors 
+𝐴
+A and 
+𝐵
+B is defined as:
+
+cosine_similarity
+=
+cos
+⁡
+(
+𝜃
+)
+=
+𝐴
+⋅
+𝐵
+∥
+𝐴
+∥
+∥
+𝐵
+∥
+cosine_similarity=cos(θ)= 
+∥A∥∥B∥
+A⋅B
+​
+ 
+
+Where:
+
+𝐴
+⋅
+𝐵
+A⋅B is the dot product of the vectors 
+𝐴
+A and 
+𝐵
+B.
+∥
+𝐴
+∥
+∥A∥ is the magnitude (or length) of vector 
+𝐴
+A.
+∥
+𝐵
+∥
+∥B∥ is the magnitude (or length) of vector 
+𝐵
+B.
