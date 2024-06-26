@@ -27,7 +27,14 @@ I Build a job recommendation engine using content-based filtering techniques.
 Since job recommendation systems deal with finding relevant jobs mainly based on one’s skill sets, therefore retrieving the skills from different jobs given is an important task.
 ![Design Process Flowchart](https://github.com/Pacchu04/Job-Recommendation-System/assets/92878457/fb742d6a-83bc-4b16-8846-2b6152cc37fb)
 
+### Vectorization
 
+Vectorization refers to the computation and generation of vectors based on the words present in a string. Here, a function called the text to vector() was used to convert the input text string to its corresponding vector such that the two vectors can be compared to understand the similarity between two text strings. This is done by importing the Counter library to count all the words in the given text.
 
+### Measuring Similarities between skill vectors
 
+Different similarity metrics such as Cosine (Orchini), City block, and Euclidean require vectorization of the skill query input and the job-based skills for searching job options where the user skills are available and then search similar jobs based on the top match.
+
+### Cosine similarity  
+* measure of similarity between two non-zero vectors in an inner product space that measures the cosine of the angle between them. It is used to determine how similar two documents (or vectors) are to each other.
 
