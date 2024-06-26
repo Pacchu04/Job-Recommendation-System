@@ -22,6 +22,12 @@ I Build a job recommendation engine using content-based filtering techniques.
 * Measuring similarities between skill vectors
 * Enhanced Recommendations with User Feedback
 
+### Data Pre-processing
+
+Since job recommendation systems deal with finding relevant jobs mainly based on one’s skill sets, therefore retrieving the skills from different jobs given is an important task.
+![Design Process Flowchart](https://github.com/Pacchu04/Job-Recommendation-System/assets/92878457/fb742d6a-83bc-4b16-8846-2b6152cc37fb)
+
+
 
 
 
