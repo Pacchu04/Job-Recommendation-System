@@ -51,6 +51,37 @@ Measure of similarity between two non-zero vectors in an inner product space tha
 Enhanced recommendations with user feedback aim to refine job recommendations by incorporating user preferences, making them more personalized and relevant. This approach extends the basic content-based filtering by considering user ratings on specific jobs to better tailor future recommendations.
 Combines user feedback with content-based similarity scores to improve recommendations. Weighs the similarity scores by the user's feedback ratings to prioritize jobs that align better with the user's preferences.
 
+## 2. Job Recommendation using Collaborative filtering
+### Methodology
+* Data Pre-processing and Meta-data creation
+* Vectorization
+* Measuring similarities between skill vectors
+* Methods for top recommendations to users
+* Enhanced Recommendations with User Feedback
 
+Same Data Pre-processing steps applied for this dataset.
 
+### Measuring Similarities between skill vectors
 
+The different similarity measures used for generating top job recommendations include:
+
+* Tanimoto or Jaccard Similarity
+* Cosine or Orchini Similarity
+* Euclidean distance-based similarity
+
+### Top Recommendation methods
+The techniques mentioned earlier and their appropriate pre-processing and vectorization were incorporated as a recommendation model and tested on user test data as a cold-start problem.
+
+The two ways of top recommendations are: Top 5 job recommendations and Highest score based Job Recommendations. In this way, we are able to assess the performance of the models based on whether they were able to predict the user’s job accurately two different scenarios.
+
+### Results and Analysis
+Based on the two types of user recommendations mentioned above, we analyze the performance of all the techniques mentioned above. The resultant jobs recommended to each new user are then checked with the job that the user is originally in as per the test dataset. If the original user job is recommended in the model result, then the model appends 1 for yes else, it appends 0 for no. This array of 0's and 1's thus received is then checked for accuracy by computing the count of 1's from the total user predictions
+
+Among all the models made with the incorporation of different similarity metrics, the cosine similarity based job recommendation system model outperformed rest of them all.
+
+Model Accuracy:
+![image](https://github.com/Pacchu04/Job-Recommendation-System/assets/92878457/af5a0c35-3d45-4a85-affa-21571a84b881)
+
+This is because cosine considers the existence of duplicate terms while computing similarity. Also, computationally, cosine has low complexity and ease over handling spare data vectors since only non-zero dimensions are considered.
+
+Upon analyzing the result table we observe that the short-comings of some similarity measures upon recommending top 5 and highest-score based job recommendations as even upon achieving high similarity scores is due to the fact that users are seen to have different jobs than the ones recommended by the models, thus resulting in 6–10% error rates.
