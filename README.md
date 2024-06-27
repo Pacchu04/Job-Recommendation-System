@@ -59,6 +59,8 @@ Combines user feedback with content-based similarity scores to improve recommend
 * Methods for top recommendations to users
 * Enhanced Recommendations with User Feedback
 
+Dataset used for this recommendation: https://www.kaggle.com/datasets/tondji/jobs-data-for-recommender-systems
+
 Same Data Pre-processing steps applied for this dataset.
 
 ### Measuring Similarities between skill vectors
