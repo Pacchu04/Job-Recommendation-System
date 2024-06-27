@@ -14,7 +14,8 @@ There are mainly two types of filtering techniques in Recommendation Systems nam
   
 * Collaborative filtering: Collaborative filtering is a recommendation technique that predicts a user's interests or preferences based on the preferences and behaviors of other users. It relies on the idea that people who have agreed in the past will agree in the future.
 
-## Methodology
+## 1.Job Recommendation using Content-based filtering
+### Methodology
 I Build a job recommendation engine using content-based filtering techniques.
 
 * Data Pre-processing and Meta-data creation
