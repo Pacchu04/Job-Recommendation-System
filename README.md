@@ -80,6 +80,7 @@ Based on the two types of user recommendations mentioned above, we analyze the p
 Among all the models made with the incorporation of different similarity metrics, the cosine similarity based job recommendation system model outperformed rest of them all.
 
 Model Accuracy:
+
 ![image](https://github.com/Pacchu04/Job-Recommendation-System/assets/92878457/af5a0c35-3d45-4a85-affa-21571a84b881)
 
 This is because cosine considers the existence of duplicate terms while computing similarity. Also, computationally, cosine has low complexity and ease over handling spare data vectors since only non-zero dimensions are considered.
