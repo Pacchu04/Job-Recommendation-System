@@ -1,0 +1,101 @@
+user_id,job_title,skills
+103,RF Engineer,"{'skills': {'training': 2, 'implementation': 1, 'communication': 1, 'reporting': 2, 'project manager': 1, 'analytics': 1, 'technical': 3}}"
+48,Assistant Technician,"{'skills': {'consulting': 1, 'communication': 1, 'programming': 1, 'analytics': 1, 'analytical': 1, 'mathematics': 1, 'data analytics': 1}}"
+6,Strategy Consultant?,"{'skills': {'mobile': 1, 'communication': 2, 'collaboration': 2, 'training': 2, 'e-commerce': 1}}"
+72,Technical Writer,"{'skills': {'documentation': 1, 'dom': 1}}"
+153,Front Desk Clerk,"{'skills': {'communication': 2, 'collaboration': 1, 'ensemble': 4}}"
+100,Assistant Customer Care Center Manager,"{'skills': {'analytics': 1, 'collaboration': 1, 'e-commerce': 1, 'internet': 2, 'communication': 1}}"
+21,Quality Assurance Manager,"{'skills': {'hardware': 3, 'mobile': 1, 'coaching': 1, 'reporting': 1, 'design': 1}}"
+125,Ground Support Equipment Mechanic,"{'skills': {'training': 3, 'implementation': 1, 'programming': 1, 'mentoring': 1, 'innovation': 1, 'presentation': 7}}"
+19,Treasurer,"{'skills': {'training': 1, 'implementation': 3, 'e-commerce': 1, 'coaching': 1, 'leadership': 1, 'go': 1, 'technical': 1, 'project management': 1}}"
+142,International Travel Consultant,"{'skills': {'ai': 40, 'communication': 7, 'collaboration': 3, 'training': 1, 'tableau': 1}}"
+53,Market Access Associate,"{'skills': {'implementation': 2, 'technical': 1, 'processing': 1, 'programming': 1}}"
+171,Front End Load Driver,{'skills': {'internet': 1}}
+95,Software Developer,"{'skills': {'ai': 6, 'communication': 1, 'collaboration': 3, 'programming': 1, 'engineering': 1, 'design': 1, 'matlab': 1, 'analytical': 3, 'modeling': 1, 'ensemble': 3}}"
+66,Sales Coordinator,"{'skills': {'communication': 1, 'internet': 2}}"
+63,Chemical Technician,{'skills': {'e-commerce': 1}}
+139,Instrumentation Engineer,{'skills': {'communication': 2}}
+2,Director of Hotel Sales,"{'skills': {'hardware': 3, 'mobile': 1, 'coaching': 1, 'reporting': 1, 'design': 1}}"
+177,Forecast Systems Manager,"{'skills': {'communication': 5, 'http': 1, 'e-commerce': 2}}"
+142,Dermatology Nurse,"{'skills': {'ai': 1, 'communication': 1}}"
+15,Total Quality Management Director,"{'skills': {'processing': 1, 'http': 6}}"
+85,Operations Clerk,{'skills': {'ai': 1}}
+32,Meeting Specialist,"{'skills': {'training': 1, 'implementation': 3, 'e-commerce': 1, 'coaching': 1, 'leadership': 1, 'go': 1, 'technical': 1, 'project management': 1}}"
+189,Transportation Project Manager,{'skills': {'communication': 1}}
+86,Technical Support Engineer,"{'skills': {'reporting': 2, 'ai': 5, 'communication': 4, 'documentation': 1, 'coaching': 1, 'ensemble': 1}}"
+188,Freelance Travel Writer,"{'skills': {'design': 1, 'internet': 1}}"
+26,Laboratory Assistant,"{'skills': {'ai': 1, 'http': 1}}"
+83,Club Representative,"{'skills': {'mobile': 1, 'communication': 1, 'fortran': 1}}"
+149,Guest Services Agent,{'skills': {'communication': 1}}
+62,Transportation Project Manager,"{'skills': {'ai': 2, 'hardware': 1, 'internet': 1}}"
+9,Power Regulator,"{'skills': {'mobile': 1, 'communication': 2, 'design': 1}}"
+190,Strength and Conditioning Coach,{'skills': {'collaboration': 1}}
+32,Station Agent,"{'skills': {'training': 4, 'programming': 1, 'website development': 2}}"
+160,Online Customer Support,{'skills': {'ensemble': 5}}
+137,Treasurer,{'skills': {'internet': 1}}
+106,Organizational Development Consultant,"{'skills': {'communication': 1, 'collaboration': 4, 'leadership': 1, 'ensemble': 1, 'internet': 1}}"
+183,Integration/Business Intelligence Technical Lead,{'skills': {'internet': 1}}
+50,Project Manager,"{'skills': {'http': 2, 'big data': 1, 'mobile': 4, 'communication': 1, 'swing': 1, 'analytics': 1, 'problem solving': 5, 'innovation': 1, 'networks': 17, 'insights': 4}}"
+54,Operations Research Analysis Manager,"{'skills': {'http': 4, 'big data': 2, 'dom': 1, 'processing': 1, 'machine learning': 5, 'analytics': 3, 'statistical analysis': 1, 'data mining': 1, 'modeling': 1, 'shiny': 2, 'ensemble': 1, 'data analytics': 1, 'insights': 1}}"
+2,Territory Sales Representative,"{'skills': {'communication': 4, 'e-commerce': 1}}"
+22,Night Auditor,"{'skills': {'go': 1, 'communication': 2, 'ensemble': 2}}"
+151,Concierge?,{'skills': {'desk': 1}}
+25,Solid Waste Field Technician,"{'skills': {'training': 6, 'http': 1, 'critical thinking': 2, 'communication': 2, 'collaboration': 2, 'analytics': 3, 'coaching': 1, 'leadership': 6, 'design': 3, 'project management': 1, 'implementation': 3, 'mentoring': 1, 'spark': 2, 'presentation': 1, 'data analytics': 2}}"
+34,Heavy Equipment Technician,"{'skills': {'training': 2, 'data collection': 1, 'technical': 1, 'reporting': 11, 'programming': 4, 'hardware': 2, 'design': 2, 'databases': 1, 'sas': 2}}"
+200,Mechanical Engineer,"{'skills': {'reporting': 2, 'ai': 5, 'communication': 4, 'documentation': 1, 'coaching': 1, 'ensemble': 1}}"
+88,Travel Secretary,{'skills': {'internet': 1}}
+49,Strategy Consultant?,"{'skills': {'training': 1, 'data collection': 1, 'processing': 3, 'implementation': 1, 'communication': 1, 'data mining': 2, 'innovation': 1, 'machine learning': 4, 'mobile': 1, 'engineering': 2, 'design': 3, 'deep learning': 1, 'go': 1, 'mathematics': 1, 'technical': 3}}"
+98,Director of? Customer Success and Satisfaction,{'skills': {'mobile': 1}}
+34,Account Executive,"{'skills': {'training': 1, 'certifications': 1, 'http': 1, 'processing': 1, 'implementation': 1, 'documentation': 2, 'programming': 1, 'prototyping': 1, 'tech support': 1, 'penetration testing': 1, 'data processing': 1, 'technical': 8, 'networks': 1}}"
+107,Drilling Engineer,"{'skills': {'communication': 3, 'collaboration': 2, 'documentation': 1, 'ensemble': 1}}"
+3,Bus Driver,"{'skills': {'mobile': 1, 'communication': 2, 'design': 1}}"
+51,Engineering Technician,"{'skills': {'training': 1, 'leadership': 1, 'design': 2}}"
+5,Electronics Engineer,"{'skills': {'implementation': 1, 'consulting': 1, 'design': 1, 'engineering': 1, 'project management': 1}}"
+79,Golf Pro,"{'skills': {'mobile': 1, 'communication': 2, 'collaboration': 2, 'training': 2, 'e-commerce': 1}}"
+55,Medical Receptionist,"{'skills': {'training': 1, 'certifications': 1, 'http': 1, 'processing': 1, 'implementation': 1}}"
+117,Threat Intelligence Analyst,"{'skills': {'ai': 1, 'collaboration': 1}}"
+138,Commercial Print Management Consultant,"{'skills': {'communication': 1, 'internet': 1}}"
+11,Manager of Engineering,"{'skills': {'engineering': 1, 'git': 1, 'design': 1}}"
+80,Principal Service Engineer,"{'skills': {'design': 1, 'internet': 1}}"
+173,Informatica Extract Transform Load (ETL) Developer,"{'skills': {'documentation': 1, 'ensemble': 2, 'reporting': 1}}"
+119,Senior Mechanical Engineer,"{'skills': {'communication': 1, 'internet': 1}}"
+164,Front Desk Manager,"{'skills': {'consulting': 1, 'less': 1, 'coding': 1, 'analytics': 3, 'design': 7, 'statistical analysis': 2, 'networks': 2, 'implementation': 6, 'social media marketing': 1, 'internet': 3, 'presentation': 2, 'web development': 1, 'reporting': 3, 'innovation': 1, 'attention to detail': 1, 'leadership': 1, 'desk': 1, 'project management': 1, 'training': 7, 'technical': 4, 'documentation': 3, 'programming': 1, 'e-commerce': 1, 'databases': 2, 'analytical': 1, 'troubleshooting': 1}}"
+28,Compliance Engineer,"{'skills': {'organizational': 1, 'foundation': 2, 'training': 2, 'innovation': 1}}"
+29,Ethics Office Business Intelligence Officer,"{'skills': {'go': 1, 'communication': 2, 'ensemble': 2}}"
+176,Front Desk Associate,{'skills': {'ensemble': 1}}
+7,Chemical Engineer,{'skills': {'http': 1}}
+167,Rotating Equipment Engineer,"{'skills': {'certifications': 1, 'http': 1, 'mobile': 13, 'communication': 47, 'cloud computing': 12, 'documentation': 1, 'networks': 2, 'internet': 34, 'tableau': 1, 'ensemble': 11, 'e-commerce': 12, 'wimax': 1, 'lte': 4, 'innovation': 5, 'dos': 1, 'collaboration': 7}}"
+148,Server,"{'skills': {'mobile': 2, 'communication': 1, 'reporting': 1, 'ensemble': 1}}"
+184,Online Customer Support,"{'skills': {'designer': 1, 'ai': 1, 'communication': 1, 'reporting': 2, 'engineering': 1, 'internet': 2, 'ensemble': 1}}"
+155,Executive Conference Manager,"{'skills': {'collaboration': 1, 'ensemble': 2}}"
+16,HVAC Mechanic,"{'skills': {'reporting': 3, 'ensemble': 3}}"
+194,Referee,"{'skills': {'mobile': 1, 'innovation': 1}}"
+7,Cost Engineer,"{'skills': {'debugging': 1, 'consulting': 1, 'engineering': 1, 'design': 21, 'statistical analysis': 1, 'problem solving': 2, 'networks': 1, 'implementation': 5, 'html': 1, 'innovation': 6, 'mathematics': 1, 'presentation': 6, 'data analysis': 2, 'http': 3, 'collaboration': 1, 'desk': 1, 'modeling': 1, 'training': 1, 'data collection': 1, 'mobile': 1, 'programming': 1, 'priorities': 1, 'e-commerce': 1}}"
+195,Bus Driver,"{'skills': {'ai': 1, 'diagnostics': 1}}"
+5,Sales Analyst,"{'skills': {'git': 2, 'http': 1, 'nodejs': 1, 'mobile': 1, 'communication': 1, 'svg': 1, 'node.js': 1, 'e-commerce': 2, 'html': 1, 'design': 1, 'internet': 3, 'angular2': 1, 'angular': 1}}"
+126,Software Engineer - Data Warehouse/Business Intelligence,"{'skills': {'reporting': 2, 'ai': 5, 'communication': 4, 'documentation': 1, 'coaching': 1, 'ensemble': 1}}"
+141,Firmware Engineer,{'skills': {'internet': 1}}
+199,Airline Pilot,"{'skills': {'communication': 1, 'word': 1}}"
+131,Patient Care Coordinator,{'skills': {'ensemble': 5}}
+23,Market Access Associate,"{'skills': {'e-commerce': 3, 'reporting': 1, 'design': 1, 'ensemble': 2}}"
+12,Computer Science Teacher,{'skills': {'collaboration': 1}}
+8,Research and Development Tester,{'skills': {'communication': 1}}
+110,School Nurse,"{'skills': {'communication': 1, 'documentation': 3}}"
+69,Producer,"{'skills': {'foundation': 1, 'consulting': 2, 'implementation': 8, 'reporting': 2, 'training': 7, 'design': 1, 'go': 1, 'presentation': 1}}"
+45,Quality Assurance Technologist,{'skills': {'communication': 1}}
+39,Sales and Marketing Coordinator,"{'skills': {'communication': 1, 'internet': 1}}"
+159,Financial Analyst,{'skills': {'communication': 1}}
+145,Sports Physician,"{'skills': {'certifications': 1, 'ai': 3, 'communication': 2, 'mobile': 4, 'leadership': 2, 'internet': 4, 'ensemble': 2}}"
+193,Benefit Coordinator,{'skills': {'ensemble': 3}}
+61,Senior Manager Yield and Revenue Management,"{'skills': {'hardware': 1, 'wimax': 1, 'ensemble': 1, 'internet': 1}}"
+172,Oracle Technical Lead,{'skills': {'communication': 2}}
+147,Hunting Guide,"{'skills': {'mobile': 1, 'design': 1}}"
+36,Catering Manager,"{'skills': {'ai': 5, 'communication': 1, 'e-commerce': 3, 'design': 1, 'mobile': 2, 'assembleur': 1, 'ensemble': 2}}"
+105,Data Architect,"{'skills': {'http': 2, 'communication': 15, 'collaboration': 9, 'internet': 1, 'e-commerce': 1, 'design': 3, 'problem solving': 2, 'innovation': 2, 'communication technologies': 1}}"
+102,Piping Stress Engineer,"{'skills': {'consulting': 2, 'implementation': 7, 'collaboration': 1, 'reporting': 2, 'programming': 1, 'hardware': 1, 'technical': 1, 'engineering': 1, 'desk': 1}}"
+121,Associate Producer Events,"{'skills': {'html': 2, 'ensemble': 1}}"
+38,Research and Development Technician,"{'skills': {'git': 2, 'http': 1, 'nodejs': 1, 'mobile': 1, 'communication': 1, 'svg': 1, 'node.js': 1, 'e-commerce': 2, 'html': 1, 'design': 1, 'internet': 3, 'angular2': 1, 'angular': 1}}"
+53,Maintenance Engineer,"{'skills': {'documentation': 1, 'dom': 1}}"
+97,Corporate Sales Manager,"{'skills': {'ai': 2, 'collaboration': 1}}"
+59,Total Quality Management Director,"{'skills': {'windows': 1, 'collaboration': 1, 'e-commerce': 1, 'html': 1, 'visio': 1, 'php': 1, 'powershell': 1}}"
+73,Senior Manager of Industry Analytics,"{'skills': {'hardware': 3, 'mobile': 1, 'coaching': 1, 'reporting': 1, 'design': 1}}"
