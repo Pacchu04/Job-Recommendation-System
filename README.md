@@ -55,6 +55,9 @@ Enhanced recommendations with user feedback aim to refine job recommendations by
 Combines user feedback with content-based similarity scores to improve recommendations. Weighs the similarity scores by the user's feedback ratings to prioritize jobs that align better with the user's preferences.
 
 ## 2. Job Recommendation using Collaborative filtering
+### Project Notebook file:
+https://github.com/Pacchu04/Job-Recommendation-System/blob/main/collaborate_filtering_recommendation.ipynb
+
 ### Methodology
 * Data Pre-processing and Meta-data creation
 * Vectorization
